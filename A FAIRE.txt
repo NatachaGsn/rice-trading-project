@@ -1,0 +1,2 @@
+A FAIRE
+- checker la gridsearch method (partie 4.2)
