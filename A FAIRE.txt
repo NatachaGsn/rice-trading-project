@@ -1,3 +1,0 @@
-A FAIRE
-- checker la gridsearch method (partie 4.2)
-- vérifier si je short et long au bon moment (short quand le z score est haut et long quand il est bas)
